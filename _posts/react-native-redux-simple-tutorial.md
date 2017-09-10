@@ -1,9 +1,11 @@
 ---
 toc: true
-title: react-native-redux 简易教程
+title: react-native+redux 简易教程
 date: 2017-09-10 15:36:28
 tags:
 ---
+
+[点击此处修改文章](https://github.com/DaiQing-Zha/pageSource/blob/master/_posts/react-native-redux-simple-tutorial.md)
 
 ### 一、React-Native介绍
 **简介：**  
