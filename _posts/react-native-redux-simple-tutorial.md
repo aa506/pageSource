@@ -10,7 +10,7 @@ tags:
 ### 一、React-Native介绍
 **简介：**  
 React Native (简称RN)是Facebook于2015年4月开源的跨平台移动应用开发框架，是Facebook早先开源的UI框架 React 在原生移动应用平台的衍生产物，目前支持iOS和安卓两大平台。RN使用Javascript语言，类似于HTML的JSX，以及CSS来开发移动应用。  
-**React-native特点：**  
+**React-native 的特点：**  
 1、React Native使你能够在Javascript和React的基础上获得完全一致的开发体验，构建世界一流的原生APP。  
 2、React Native着力于提高多平台开发的开发效率 —— 仅需学习一次，编写任何平台。(Learn once, write anywhere)  
 **React Native比起标准Web开发或原生开发能够带来的三大好处：**  
