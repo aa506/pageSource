@@ -7,6 +7,8 @@ tags:
 
 [点击此处修改文章](https://github.com/DaiQing-Zha/pageSource/blob/master/_posts/react-native-redux-simple-tutorial.md)
 
+### React-native的特点
+
 ### 一、React-Native介绍
 **简介：**  
 React Native (简称RN)是Facebook于2015年4月开源的跨平台移动应用开发框架，是Facebook早先开源的UI框架 React 在原生移动应用平台的衍生产物，目前支持iOS和安卓两大平台。RN使用Javascript语言，类似于HTML的JSX，以及CSS来开发移动应用。  
